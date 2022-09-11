@@ -8,13 +8,11 @@ También quieren tener la comparativa del tráfico de salida y entrada entre el 
 
 **B. Requerimientos**
 
-Ser capaces de implementar una carga desde las fuentes de datos proporcionadas a la base de datos SQL
-Ser capaces de Buscar la información faltante para completar la tabla de países
+Implementar una carga desde las fuentes de datos proporcionadas a la base de datos SQL
+Buscar la información faltante para completar la tabla de países
 Generar un reporte que muestre la información solicitada en el caso (PowerBI, Tableau o Google DataStudio como herramientas recomendadas)
 
 **C. Materiales**
-
-Para realizar la práctica se dispone de los siguientes materiales:
 
 CSV con información de las rutas y los pasajeros en los últimos 4 años
 Api para obtener toda la información necesaria sobre los aeropuertos
