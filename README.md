@@ -14,6 +14,6 @@ Generar un reporte que muestre la información solicitada en el caso (PowerBI, T
 
 **C. Materiales**
 
-CSV con información de las rutas y los pasajeros en los últimos 4 años
-Api para obtener toda la información necesaria sobre los aeropuertos
+CSV con información de las rutas y los pasajeros en los últimos 4 años,
+Api para obtener toda la información necesaria sobre los aeropuertos, y
 Base de datos SQL para realizar la carga de datos
